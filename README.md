@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thaitri2005
+- 👀 I’m interested in Software Development and Data Analysis 
+- 🌱 I’m currently learning Computer Science 
