@@ -6,6 +6,6 @@
 
 ## 📚 Learning
 - I’m currently learning Computer Science at OSSU
-- Applying to college
+- Applying to college. I hope I can find a good place to study
 
-![Albert Heffley's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaitri2005&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaitri2005&layout=compact)
