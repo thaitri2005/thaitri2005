@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm thaitri2005</h1>
+<h1 align="center">Hi, I'm Thai Huu Tri, also known as Albert Heffley</h1>
 <h3 align="center">A CS/DS student from Vietnam</h3>
 
 ## 💻 Current project
-- [PWControl](https://github.com/thaitri2005/PWControl)
+- Nothing right now. I'll be back for more soon.
 
 ## 📚 Learning
 - I’m currently learning Computer Science at OSSU
